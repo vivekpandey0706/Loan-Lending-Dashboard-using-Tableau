@@ -1,6 +1,8 @@
 # Loan-Lending-Dashboard-using-Tableau
 An interactive Tableau dashboard analyzing loan lending metrics, built from cleaned raw Excel data to track portfolio health, funding volumes,  and regional demand.
 
+<img src="overview.gif" width="800" alt="Dashboard Demo">
+
 ## Features
 * **Dynamic Time Filtering:** A "Select Analysis Period" toggle filters all metrics by specific date ranges.
 * **Granular Auditing:** A detailed bottom-pane ledger displays the top 100 loans, breaking down individual grades, purposes, terms, and amounts.
